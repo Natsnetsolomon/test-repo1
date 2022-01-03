@@ -1,2 +1,2 @@
 # test-repo1
-for test
+for test and example
